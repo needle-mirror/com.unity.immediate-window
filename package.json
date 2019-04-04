@@ -1,8 +1,8 @@
 {
   "name": "com.unity.immediate-window",
   "displayName": "Immediate Window",
-  "version": "1.0.0-preview.3",
-  "unity": "2019.1",
+  "version": "1.0.0-preview.4",
+  "unity": "2019.2",
   "description": "The Immediate Window provides a way to rapidly edit and debug code. It is not a full development environment, instead it is to be used for API discovery and rapid prototyping.",
   "author": {
     "name": "Unity Technologies",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.cds.internal.unity3d.com/upm-packages/tools/com.unity.immediate-window.git",
-    "revision": "123bb4b0c010d69ab186f18c17a89151da8c1cb7"
+    "url": "git@github.cds.internal.unity3d.com:unity/com.unity.immediate-window.git",
+    "revision": "10dad96d7ff8faa51a7a65452c539b35d4459bb9"
   }
 }
